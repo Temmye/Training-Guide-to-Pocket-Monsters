@@ -8,7 +8,7 @@
 		Core Aspects
 	</p>
 	<p>
-		&#9679; Trainer class system that makes everyone unique, with its own specialities; </br>
+		&#9679; Trainer class system that makes everyone unique, with its own specialities; <br>
 		&#9679; Pokémon building focused on balancing and making every pokémon have their own unique effects exclusive to their species; <br>
 		&#9679; Team focused gameplay, so each player can have their own roles both in exploration and combat; <br>
 	</p>
