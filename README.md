@@ -12,6 +12,9 @@
 		&#9679; Pokémon building focused on balancing and making every pokémon have their own unique effects exclusive to their species; <br>
 		&#9679; Team focused gameplay, so each player can have their own roles both in exploration and combat; <br>
 	</p>
+	<p>
+		<b>Disclaimer:</b> The system is still in progress, as such, some aspects of all the books are still incomplete, like some Class features still not created, a lack of any tier V move or just about 80% of the pokémon are not made yet.
+	</p>
 	<p class="title">
 		Important Links
 	</p>
